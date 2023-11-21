@@ -3,3 +3,5 @@ Project Time Travel - How I plan to tell my younger self which Netflix series ar
 - create a list
 - send the list to the past
 - hope it will work
+
+- budget: $1000000
